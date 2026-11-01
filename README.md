@@ -1,11 +1,24 @@
-### Hi, I'm Priyanshu 👋
+# Hi, I'm Priyanshu 👋
 
-CSE student, currently building toward SDE and AI/ML roles.
+I'm a final-year Computer Science undergraduate (2027) interested in backend engineering, full-stack development, and building practical software products.
 
-- 🔭 Currently strengthening DSA fundamentals and building real, deployed projects
-- 🌱 Learning: Python, data structures & algorithms, and the fundamentals of ML
-- 💻 Currently working with: Python, Data Structures & Algorithms, and Machine Learning fundamentals
-- 📫 Reach me: priyanshukhare1810@gmail.com
+I have experience working with JavaScript, Python, Node.js, Express, PostgreSQL, React, AWS, and Cloudflare.
 
----
-📌 Check out my pinned repositories below for my latest work.
+My current focus is strengthening software engineering fundamentals, building reliable backend systems, and developing better technical judgment when working with AI-assisted development.
+
+## Featured Projects
+
+**Outpost** — An independent full-stack academic learning-management platform.
+
+**Your-Home** — A collaborative property decision-support project involving backend development.
+
+## Current Focus
+
+- Backend engineering and API design
+- Data structures and algorithms
+- Databases and system design
+- Testing, debugging, and application security
+- Linux, cloud infrastructure, and deployment
+- AI-assisted software development
+
+I'm interested in understanding how software systems work internally, identifying engineering trade-offs, and building solutions to real problems.
